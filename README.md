@@ -11,6 +11,7 @@ Some Psudo-coding to get basic steps:
 1. Create a google sheets template that will display the financial data.
 2. Communicate with an API to retrieve required data.
 3. Enter the data into the Google spreadsheet.
+4. other steps I am missing?
 
 
 Other ideas if time permits;
